@@ -1,0 +1,6 @@
+{
+  "name": "Moth & Marigold — Dusk Flower Delivery",
+  "description": "One-page website for an independent flower shop delivering seasonal stems at dusk between 5 pm and 9 pm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
